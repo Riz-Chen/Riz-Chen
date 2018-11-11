@@ -1,24 +1,16 @@
 /* element selector */
 body {
-	background-color: #6c757d00; font-family: 'Fjalla One', sans-serif;
+	background-color: #6c757d00; font-family: 'Fjalla One', sans-serif;padding-bottom: 50px;
+}
+
+span {
+	margin: 2.5px;
 }
 
 
 /* class selector */
 .container {
-	text-align: center; color: black; text-transform: capitalize; font-family: "Times New Roman", Times, serif;
-}
-
-.riz-card {
-	background-color:lightgray; margin: 8px;
-}
-
-.card-body {
-	background-color:lightgray;
-}
-
-.card {
-	margin-left: 25%; color: black; text-transform: capitalize; 
+	 color: black; text-transform: capitalize; 
 }
 
 .jumbotron {
@@ -31,4 +23,8 @@ body {
 
 .footer-middle {
 	margin: auto;
+}
+
+.my-4 {
+	margin-bottom: 0.5rem!important; margin-top: 0.1rem!important;
 }
