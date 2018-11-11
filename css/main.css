@@ -1,0 +1,43 @@
+/* element selector */
+body {
+	background-color: #6c757d00; font-family: 'Fjalla One', sans-serif;
+}
+
+
+/* class selector */
+.container {
+	text-align: center; color: black; text-transform: capitalize; font-family: "Times New Roman", Times, serif;
+}
+
+.riz-card {
+	background-color:lightgray; margin: 8px;
+}
+
+.card-body {
+	background-color:lightgray;
+}
+
+.card {
+	margin-left: 25%; color: black; text-transform: capitalize; 
+}
+
+.jumbotron {
+	height:640px;
+	background-image: url("../img/test03.JPG");
+    background-size: 1280px 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.footer-middle {
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
