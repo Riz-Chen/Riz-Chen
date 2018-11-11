@@ -23,7 +23,7 @@ body {
 
 .jumbotron {
 	height:640px;
-	background-image: url("../img/test03.JPG");
+	background-image: url("../img/test03.jpg");
     background-size: 1280px 800px;
     background-repeat: no-repeat;
     background-position: center;
@@ -32,12 +32,3 @@ body {
 .footer-middle {
 	margin: auto;
 }
-
-
-
-
-
-
-
-
-
